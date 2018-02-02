@@ -15,6 +15,7 @@ namespace WindowsFormsApp7
         
         public Form1()
         {
+
             InitializeComponent();
         }
 
